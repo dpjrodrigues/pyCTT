@@ -5,6 +5,7 @@ Python library to retrieve information from [CTT.pt](http://www.ctt.pt)
 
 ## Requirements
 - aiohttp
+- lxml
 
 ## Changelog
 
