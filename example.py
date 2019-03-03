@@ -14,6 +14,7 @@ async def main():
         print('Total Number of Items:',await items.number_of_items())
 
         print('Total Number of Items Delivered:',await items.number_of_items_delivered())
+        print('Total Number of Items Delivered:',await items.number_of_items_in_state("Objeto entregue"))
 
         print('Total Number of Items not Delivered:',await items.number_of_items_not_delivered())
 

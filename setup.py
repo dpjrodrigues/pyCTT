@@ -5,7 +5,7 @@ long_description = open('README.md').read()
 
 setup(
     name='pyCTT',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT License',
     url='https://github.com/dpjrodrigues/pyCTT',
     author='Diogo Rodrigues',

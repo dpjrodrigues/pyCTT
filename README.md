@@ -9,7 +9,7 @@ Python library to retrieve information from [CTT.pt](http://www.ctt.pt)
 
 ## Changelog
 
-1.0.0 First Version
+1.0.1 First Version
 
 ## Credits
 Values are obtained from [CTT.pt](http://www.ctt.pt)
